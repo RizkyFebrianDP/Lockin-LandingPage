@@ -1,0 +1,8 @@
+<svg width="300" height="600" viewBox="0 0 300 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="600" rx="30" fill="#1F2937"/>
+<rect x="20" y="60" width="260" height="480" rx="20" fill="#4782F4"/>
+<circle cx="150" cy="40" r="8" fill="#6B7280"/>
+<rect x="120" y="550" width="60" height="4" rx="2" fill="#6B7280"/>
+<text x="150" y="320" text-anchor="middle" fill="white" font-size="24" font-weight="bold" font-family="Arial">LockIn</text>
+<text x="150" y="350" text-anchor="middle" fill="white" font-size="14" font-family="Arial">Focus App</text>
+</svg>
