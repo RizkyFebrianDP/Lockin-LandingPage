@@ -152,17 +152,3 @@ docker run -p 3000:3000 lockin-landingpage
 3. Commit changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
-Please ensure code follows ESLint rules and includes tests if applicable.
-
-## License
-
-This project is open-source under the MIT License.
-
-## Contact
-
-For questions, open an issue on GitHub or email [your-email@example.com](mailto:your-email@example.com).
-
----
-
-*Built with ❤️ for LockIn by Rizky Febrian DP*
